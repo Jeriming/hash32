@@ -1,6 +1,6 @@
 {
   "name": "hash32",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a random 32-bit hash",
   "main": "lib/hash32.js",
   "scripts": {

@@ -1,0 +1,27 @@
+{
+  "name": "hash32",
+  "version": "1.0.0",
+  "description": "Generate a random 32-bit hash",
+  "main": "lib/hash32.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "hash32"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jeriming/hash32.git"
+  },
+  "author": {
+    "name": "Jeriming",
+    "email": "316906528@qq.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}

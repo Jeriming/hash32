@@ -1,4 +1,4 @@
-# hash32 [![hash32](https://img.shields.io/badge/hash-v1.0.0-%234bc51d)](https://www.npmjs.com/package/hash32)
+# hash32 [![hash32](https://img.shields.io/badge/hash-v1.0.4-brightgreen)](https://www.npmjs.com/package/hash32)
 
 ## Install
 
@@ -11,6 +11,7 @@ ES6 & TypeScript
 import { hash32 } from "hash32";
 
 hash32();
+hash32(16); // Generates a 16-bit hash
 ```
 
 ## AMD
@@ -18,4 +19,5 @@ hash32();
 const { hash32 } = require("hash32");
 
 hash32();
+hash32(16); // Generates a 16-bit hash
 ```

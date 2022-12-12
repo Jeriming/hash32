@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "Generate a random 32-bit hash",
   "main": "lib/hash32.js",
+  "types": "lib/type.d.ts",
   "scripts": {
     "build": "webpack"
   },
@@ -15,7 +16,7 @@
   },
   "author": {
     "name": "Jeriming",
-    "email": "316906528@qq.com"
+    "email": "jekin@foxmail.com"
   },
   "license": "MIT",
   "devDependencies": {
